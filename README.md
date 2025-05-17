@@ -27,8 +27,8 @@ O código está organizado em seções, para facilitar o entendimento do usuári
 
 ## Como Usar
 
-1. Clone ou baixe o notebook `.ipynb`.
-2. Abra o notebook no Google Colab.
+1. Clone ou baixe o notebook `.ipynb`. Para baixar basta ir em code, clicar no arquivo Projeto_imersãoIA_PedroGQ.ipynb e nos três pontinhos do canto superior direito clicar em download.
+2. Abra o notebook no Google Colab. Para isso, basta ir no canto superior esquerdo de um Colab vazio, clicar em "Arquivo" e abrir notebook, basta escolher o arquivo que acabou de baixar do Github e terá acesso ao código no Google Colab.
 3. Garanta ter sua `GOOGLE_API_KEY` configurada como um segredo no Colab.
 4. Execute todas as células do notebook
 5. Quando solicitado ao final, digite o tópico que você deseja pesquisar na entrada.
